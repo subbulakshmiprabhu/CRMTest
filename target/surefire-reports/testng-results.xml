@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-10-30T15:11:28 IST" name="FREE CRM Application Test Automation Test Suite" finished-at="2024-10-30T15:12:12 IST" duration-ms="44552">
+  <suite started-at="2024-10-30T15:32:03 IST" name="FREE CRM Application Test Automation Test Suite" finished-at="2024-10-30T15:32:52 IST" duration-ms="49135">
     <groups>
     </groups>
-    <test started-at="2024-10-30T15:11:28 IST" name="Free CRM App Test Cases" finished-at="2024-10-30T15:12:12 IST" duration-ms="44552">
+    <test started-at="2024-10-30T15:32:03 IST" name="Free CRM App Test Cases" finished-at="2024-10-30T15:32:52 IST" duration-ms="49135">
       <class name="com.crm.qa.testcases.LoginPageTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@184cf7cf]" started-at="2024-10-30T15:11:28 IST" name="setUp" finished-at="2024-10-30T15:11:40 IST" duration-ms="12038" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@184cf7cf]" started-at="2024-10-30T15:32:03 IST" name="setUp" finished-at="2024-10-30T15:32:16 IST" duration-ms="13330" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="loginPageTitleTest()[pri:1, instance:com.crm.qa.testcases.LoginPageTest@184cf7cf]" started-at="2024-10-30T15:11:40 IST" name="loginPageTitleTest" finished-at="2024-10-30T15:11:40 IST" duration-ms="32" status="PASS">
+        <test-method signature="loginPageTitleTest()[pri:1, instance:com.crm.qa.testcases.LoginPageTest@184cf7cf]" started-at="2024-10-30T15:32:16 IST" name="loginPageTitleTest" finished-at="2024-10-30T15:32:16 IST" duration-ms="34" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginPageTitleTest -->
-        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.crm.qa.testcases.LoginPageTest@184cf7cf]" started-at="2024-10-30T15:11:40 IST" name="tearDown" finished-at="2024-10-30T15:11:40 IST" duration-ms="397" status="PASS">
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.crm.qa.testcases.LoginPageTest@184cf7cf]" started-at="2024-10-30T15:32:16 IST" name="tearDown" finished-at="2024-10-30T15:32:17 IST" duration-ms="424" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -26,15 +26,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@184cf7cf]" started-at="2024-10-30T15:11:40 IST" name="setUp" finished-at="2024-10-30T15:11:50 IST" duration-ms="9616" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@184cf7cf]" started-at="2024-10-30T15:32:17 IST" name="setUp" finished-at="2024-10-30T15:32:27 IST" duration-ms="9900" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="crmLogoImageTest()[pri:2, instance:com.crm.qa.testcases.LoginPageTest@184cf7cf]" started-at="2024-10-30T15:11:50 IST" name="crmLogoImageTest" finished-at="2024-10-30T15:11:50 IST" duration-ms="134" status="PASS">
+        <test-method signature="crmLogoImageTest()[pri:2, instance:com.crm.qa.testcases.LoginPageTest@184cf7cf]" started-at="2024-10-30T15:32:27 IST" name="crmLogoImageTest" finished-at="2024-10-30T15:32:27 IST" duration-ms="165" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- crmLogoImageTest -->
-        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.crm.qa.testcases.LoginPageTest@184cf7cf]" started-at="2024-10-30T15:11:50 IST" name="tearDown" finished-at="2024-10-30T15:11:50 IST" duration-ms="293" status="PASS">
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.crm.qa.testcases.LoginPageTest@184cf7cf]" started-at="2024-10-30T15:32:27 IST" name="tearDown" finished-at="2024-10-30T15:32:27 IST" duration-ms="393" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -45,15 +45,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@184cf7cf]" started-at="2024-10-30T15:11:50 IST" name="setUp" finished-at="2024-10-30T15:12:00 IST" duration-ms="9399" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@184cf7cf]" started-at="2024-10-30T15:32:27 IST" name="setUp" finished-at="2024-10-30T15:32:40 IST" duration-ms="12797" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="loginTest()[pri:3, instance:com.crm.qa.testcases.LoginPageTest@184cf7cf]" started-at="2024-10-30T15:12:00 IST" name="loginTest" finished-at="2024-10-30T15:12:12 IST" duration-ms="12190" status="PASS">
+        <test-method signature="loginTest()[pri:3, instance:com.crm.qa.testcases.LoginPageTest@184cf7cf]" started-at="2024-10-30T15:32:40 IST" name="loginTest" finished-at="2024-10-30T15:32:52 IST" duration-ms="11712" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.crm.qa.testcases.LoginPageTest@184cf7cf]" started-at="2024-10-30T15:12:12 IST" name="tearDown" finished-at="2024-10-30T15:12:12 IST" duration-ms="365" status="PASS">
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.crm.qa.testcases.LoginPageTest@184cf7cf]" started-at="2024-10-30T15:32:52 IST" name="tearDown" finished-at="2024-10-30T15:32:52 IST" duration-ms="297" status="PASS">
           <params>
             <param index="0">
               <value>
